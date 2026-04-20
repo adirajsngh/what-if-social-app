@@ -1,1 +1,1 @@
-"# Angular app structure" 
+# Angular app structure
